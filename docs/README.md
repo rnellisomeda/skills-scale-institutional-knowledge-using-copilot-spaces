@@ -114,9 +114,9 @@ Common artifacts referenced across the documentation:
 ## Communication Cadence
 
 Recommended meeting rhythms:
-- **Daily standups**: 15-minute team sync on progress and blockers
+- **Team standups**: Daily or twice-weekly (as agreed by team) for progress, blockers, and dependencies
 - **Weekly PM + PdM sync**: Alignment on priorities, risks, and decisions
-- **Twice-weekly team standups**: Progress updates for delivery teams
+- **Weekly delivery sync**: Team progress updates and flagged risks
 - **Sprint demos/reviews**: End-of-sprint showcases and feedback
 - **Monthly stakeholder updates**: High-level progress and upcoming milestones
 - **Retrospectives**: After sprints, releases, or major milestones
