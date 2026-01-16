@@ -215,3 +215,4 @@ Business Analysts bridge the gap between stakeholders and technical teams by cap
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - These expanded roles provide clearer accountability and communication paths across the full project lifecycle.
 
+
