@@ -17,8 +17,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- QA Lead: oversees test strategies, validates acceptance criteria, and ensures quality.
+- Release Manager: coordinates deployments, manages release windows, and prepares rollback plans.
+- UX Designer: designs user interfaces, conducts research, and validates usability.
+- Business Analyst: captures requirements, maps processes, and bridges stakeholder-technical gaps.
+- Stakeholders: provide inputs, approvals, and represent business interests.
+
+See `octoacme-roles-and-personas.md` for detailed role definitions.
 
 ## Key Artifacts
 - Project Charter / One-pager
